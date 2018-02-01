@@ -1,0 +1,26 @@
+
+html{
+	
+	--background-grey:#f7f7f7;
+	--background-border-grey:#e7e7e7;
+	
+}
+
+.semi-transparent
+
+{
+	background-color:#000;
+	opacity:0.5;
+}
+
+.top10{
+	margin-top:10px;
+}
+
+.panel-heading{
+	margin-top:10px;
+	background-color:var(--background-grey);
+    border-top: 1px solid var(--background-border-grey);
+    border-bottom: 1px solid #e7e7e7;
+
+}
